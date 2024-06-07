@@ -4,6 +4,7 @@
 /.settings/
 /.vscode/
 /bin/
+/.venv/
 
 .classpath
 .project
@@ -47,5 +48,6 @@ Thumbs.db
 /.mvn/
 /mvnw.cmd
 /mvnw
+
 
 
